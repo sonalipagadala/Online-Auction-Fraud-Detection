@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<title>Auction Fraud</title>
+<link href="style.css" rel="stylesheet" media="all" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper"> 
+  <div id="container"> 
+    <div id="header"> 
+      <div id="logo"><br>
+        <br>
+        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font color="#FFFFFF" size="+2" face="Georgia, Times New Roman, Times, serif"> 
+        Online Modeling of Proactive Moderation System for <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Auction Fraud Detection</font></strong></div>
+    </div>
+    <!-- /header -->
+    <div id="navbar"> 
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <!-- <li><a href="#">Admin</a></li>
+        <li><a href="#">Link</a></li>
+        <li><a href="#">Link</a></li>
+        <li><a href="#">Link</a></li>-->
+      </ul>
+    </div>
+    <!-- /navbar -->
+    <div id="main"> 
+      <div id="intro"> 
+        <!-- <div id="sellerpic">
+        </div>-->
+        <!-- /jakepic -->
+        <div id="text"> </div>
+        <!-- /text -->
+        <table height="350" align="center" width="700">
+          <tr bgcolor="#CC3300"> 
+            <td width="610" bgcolor="#FBF7E1" valign="top"><p align="justify"><br>
+                <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><font color="#FF0000" size="+1" face="Courier New">Auction 
+                Fraud Detection:</font></strong> <br>
+                <strong> We consider the problem of building online machine-learned 
+                models for detecting auction frauds in e-commence web sites. Since 
+                the emergence of the world wide web, online shopping and online 
+                auction have gained more and more popularity. While people are 
+                enjoying the benefits from online trading, criminals are also 
+                taking advantages to conduct fraudulent activities against honest 
+                parties to obtain illegal profit. Hence proactive fraud-detection 
+                moderation systems are commonly applied in practice to detect 
+                and prevent such illegal and fraud activities. Machine-learned 
+                models, especially those that are learned online, are able to 
+                catch frauds more efficiently and quickly than human-tuned rule-based 
+                systems. In this paper, we propose an online probit model framework 
+                which takes online feature selection, coefficient bounds from 
+                human knowledge and multiple instance learning into account simultaneously. 
+                By empirical experiments on a real-world online auction fraud 
+                detection data we show that this model can potentially detect 
+                more frauds and significantly reduce customer complaints compared 
+                to several baseline models and the human-tuned rule-based system. 
+                </strong> </p></td>
+            <td width="147" bgcolor="#F3ECC2"> <table>
+                <tr> 
+                  <td align="center"><font color="#FF0000" size="+1" face="Georgia, Times New Roman, Times, serif"><strong><img src="images/reg.png" width="35" height="35">Registration</strong></font></td>
+                </tr>
+                <tr> 
+                  <td align="center"><font face="Comic Sans MS" size="3" class="big"><a href="seller_signup.jsp">Seller</a></font></td>
+                </tr>
+                <tr> 
+                  <td align="center"><font face="Comic Sans MS" size="3" class="big"><a href="user_signup.jsp">User</a></font></td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr> 
+                  <td align="center"><font color="#FF0000" size="+1" face="Georgia, Times New Roman, Times, serif"><strong><img src="images/log1.png" width="35" height="35"><br>
+                    Login</strong></font></td>
+                </tr>
+                <tr> 
+                  <td align="center"><font face="Comic Sans MS" size="+1" class="big"><a href="seller_log.jsp">Seller</a></font></td>
+                </tr>
+                <tr> 
+                  <td align="center"><font face="Comic Sans MS" size="+1" class="big"><a href="user_log.jsp">User</a></font></td>
+                </tr>
+                <tr> 
+                  <td align="center"><font face="Comic Sans MS" size="+1" class="big"><a href="admin_log.jsp">Admin</a></font></td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+              </table></td>
+          </tr>
+        </table>
+      </div>
+      <!-- /intro -->
+      <div id="columns-wrapper"> 
+        <!-- /form-intro -->
+        <!-- /newsletter -->
+        <!-- /right -->
+        <!-- /left -->
+      </div>
+      <!-- /columns-wrapper -->
+    </div>
+    <!-- /main -->
+    <div id="footer"> 
+      <div id="footer-right">&nbsp;</div>
+      <div id="footer-left">&nbsp;</div>
+      <br>
+      <br>
+      <strong><font color="#33CC66">WWW.chennaisunday.com</font></strong> </div>
+    <!-- /footer -->
+  </div>
+  <!-- /container -->
+</div>
+<!-- /wrapper -->
+</body>
+</html>
